@@ -98,8 +98,9 @@ The interactive Power BI dashboard provides visual insights including:
 - Payment method distribution
 - Regional sales performance
 
-![Dashboard Preview](<img width="1191" height="671" alt="image" src="https://github.com/user-attachments/assets/3d266c22-be23-40f3-9d8b-5c7886314be0" />
-)
+![Dashboard Preview]
+<img width="1191" height="671" alt="Screenshot 2026-03-17 155441" src="https://github.com/user-attachments/assets/0f9a3535-6eaf-4564-923f-ae7116b9be35" />
+
 
 ---
 
